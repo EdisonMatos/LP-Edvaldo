@@ -3,7 +3,7 @@ import heroImg from "../assets/imgs/hero/lawHero.jpg";
 import heroImgPhone from "../assets/imgs/hero/lawHeroPhone.jpg";
 import HeroEdvaldo from "../assets/imgs/hero/HeroEdvaldo.png";
 import bgHeroImg from "../assets/imgs/hero/bgHero.webp";
-import heroImgPerson from "../assets/imgs/hero/bgHero.jpg"
+import heroImgPerson from "../assets/imgs/hero/bgHero.jpg";
 
 import imgFeatures from "../assets/imgs/features/imgServices.jpg";
 import imgDivisor from "../assets/imgs/features/imgDivisor.jpg";
@@ -194,7 +194,7 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Criminal",
-        subtitle: "Sua liberdade em boas mãos. Defesa firme e eficaz.",
+        subtitle: "Sua liberdade em boas mãos. Defesa firme e técnica.",
         description: (
           <div>
             A_Definir
@@ -212,7 +212,7 @@ const content = {
       card2: {
         img: featuresImg2,
         title: "Trabalhista",
-        subtitle: "Seus direitos no trabalho garantidos com estratégia.",
+        subtitle: "Seus direitos no trabalho garantidos com firmeza e eficiência.",
         description: (
           <div>
             A_Definir
