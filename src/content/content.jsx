@@ -18,8 +18,8 @@ import aboutSocialImg from "../assets/imgs/about/aboutSocial.png";
 import aboutInstagram from "../assets/imgs/about/imgAboutInstagram.webp";
 
 import imgSteps from "../assets/imgs/steps/imgSteps.webp";
-import personImg from "../assets/imgs/hero/edvaldo.png";
-import personImgPhone from "../assets/imgs/hero/edvaldo.png";
+import personImg from "../assets/imgs/hero/edvaldo.webp";
+import personImgPhone from "../assets/imgs/hero/edvaldo.webp";
 
 import numbersImgBg from "../assets/imgs/paralaxe/bgParalaxe1.jpg";
 
@@ -212,7 +212,8 @@ const content = {
       card2: {
         img: featuresImg2,
         title: "Trabalhista",
-        subtitle: "Seus direitos no trabalho garantidos com firmeza e eficiência.",
+        subtitle:
+          "Seus direitos no trabalho garantidos com firmeza e eficiência.",
         description: (
           <div>
             A_Definir
