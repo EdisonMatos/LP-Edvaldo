@@ -1,23 +1,23 @@
 import logo from "../assets/imgs/logo/logo.png";
 import heroImg from "../assets/imgs/hero/lawHero.jpg";
 import heroImgPhone from "../assets/imgs/hero/lawHeroPhone.jpg";
-import HeroEdvaldo from "../assets/imgs/hero/HeroEdvaldo.png";
+import HeroEdvaldo from "../assets/imgs/hero/HeroEdvaldo.webp";
 import bgHeroImg from "../assets/imgs/hero/bgHero.webp";
-import heroImgPerson from "../assets/imgs/hero/bgHero.jpg"
+import heroImgPerson from "../assets/imgs/hero/bgHero.jpg";
 
-import imgFeatures from "../assets/imgs/features/imgServices.jpg";
+import imgFeatures from "../assets/imgs/features/imgServices.webp";
 import imgDivisor from "../assets/imgs/features/imgDivisor.jpg";
 
-import aboutImg1 from "../assets/imgs/about/aboutImg.jpg";
+import aboutImg1 from "../assets/imgs/about/aboutImg.webp";
 import imgAbout1 from "../assets/imgs/about/aboutImg1.jpg";
 import imgAbout2 from "../assets/imgs/about/aboutImg2.jpg";
 import imgAbout3 from "../assets/imgs/about/aboutImg3.jpg";
 import imgAbout4 from "../assets/imgs/about/aboutImg4.jpg";
 import imgAbout5 from "../assets/imgs/about/aboutImg5.jpg";
 import aboutSocialImg from "../assets/imgs/about/aboutSocial.png";
-import aboutInstagram from "../assets/imgs/about/imgAboutInstagram.jpg";
+import aboutInstagram from "../assets/imgs/about/imgAboutInstagram.webp";
 
-import imgSteps from "../assets/imgs/steps/imgSteps.jpg";
+import imgSteps from "../assets/imgs/steps/imgSteps.webp";
 import personImg from "../assets/imgs/hero/edvaldo.png";
 import personImgPhone from "../assets/imgs/hero/edvaldo.png";
 
@@ -194,7 +194,7 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Criminal",
-        subtitle: "Sua liberdade em boas mãos. Defesa firme e eficaz.",
+        subtitle: "Sua liberdade em boas mãos. Defesa firme e técnica.",
         description: (
           <div>
             A_Definir
@@ -212,7 +212,7 @@ const content = {
       card2: {
         img: featuresImg2,
         title: "Trabalhista",
-        subtitle: "Seus direitos no trabalho garantidos com estratégia.",
+        subtitle: "Seus direitos no trabalho garantidos com firmeza e eficiência.",
         description: (
           <div>
             A_Definir

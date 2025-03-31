@@ -1,6 +1,6 @@
 import bgImg from "../assets/imgs/hero/bgHeroLp.jpg";
 import logo from "../assets/imgs/logo/logo.png";
-import aboutImgLpv from "../assets/imgs/about/aboutLpv.jpg";
+import aboutImgLpv from "../assets/imgs/about/aboutLpv.webp";
 import { infos } from "./content";
 import { Baby } from "lucide-react";
 import { Users } from "lucide-react";
