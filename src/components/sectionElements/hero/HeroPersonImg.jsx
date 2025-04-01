@@ -44,7 +44,7 @@ export default function HeroPersonImg({ appDownloadButtons }) {
                   <Button
                     aria-label={content.texts.hero.ctaButtonAriaLabel}
                     label={content.texts.hero.ctaButtonText}
-                    onClick={() => navigate("/whatsapp")}
+                    // onClick={() => navigate("/whatsapp")}
                     buttonLink={content.texts.links.ctaWhatsapp}
                     animation
                     className="w-[100%]"
