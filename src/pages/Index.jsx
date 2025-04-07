@@ -39,7 +39,7 @@ export default function Index() {
       <Cta />
       <Steps />
       <Maps />
-      {/* <BlogPosts /> */}
+      <BlogPosts />
       <Faq />
       <FooterSocial
         LightMode={false}
