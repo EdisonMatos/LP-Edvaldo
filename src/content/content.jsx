@@ -425,8 +425,9 @@ const content = {
     },
     blog: {
       miniTag: "BLOG",
-      title: "Informação jurídica ao seu alcanceInformação jurídica ao seu alcance",
-      subtitle: "Acompanhe conteúdos exclusivos para manter-se sempre informado.",
+      title: "Informação jurídica ao seu alcance",
+      subtitle:
+        "Acompanhe conteúdos exclusivos para manter-se sempre informado.",
       img: imgSteps,
       blogApiEndpoint:
         "https://public-api.wordpress.com/rest/v1.1/sites/ecgadvocaciabr.wordpress.com/posts/",
