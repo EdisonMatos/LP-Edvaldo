@@ -21,7 +21,7 @@ export default function AboutInstagram({
 }) {
   return (
     <SectionArea id="about" className="bg-bgSectionDark" paddingtop={false}>
-      <SectionWrapper className="flex flex-col desktop1:flex-row gap-[40px]  desktop1:gap-x-[40px]  desktop1:justify-between">
+      <SectionWrapper className="flex flex-col desktop1:flex-row gap-[40px] desktop1:gap-x-[40px] desktop1:justify-between">
         {socialPrint ? <SocialPrint /> : <DefaultInstagram />}
         <div className="desktop1:w-[550px] desktop2:w-[570px]">
           <MotionDivDownToUp>
