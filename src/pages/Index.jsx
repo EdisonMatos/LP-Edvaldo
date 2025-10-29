@@ -19,7 +19,7 @@ export default function Index() {
     <>
       <Navbar LightMode={false} />
       {/* Os conteúdos puxados na Hero estao ambos dentro de fundoImage */}
-      <Hero appDownloadButtons={false} personImg={true} fundoImage={true} />
+      <Hero appDownloadButtons={false} personImg={false} fundoImage={true} />
 
       <Features
         defaultFeature={true}
